@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    id="ir.smgroup.mapofflineplugin"
+    version="0.5.8">
+    <name>map_offline_plugin</name>
+    <description>map_offline_plugin</description>
+    <license>MIT</license>
+    <keywords></keywords>
+    
+ 
+  
+
+
+</plugin>
